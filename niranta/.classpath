@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/jars/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="F:/jars/poi-3.15/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/jars/TestNG Report/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/jars/TestNG Report/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="F:/jars/TestNG Report/velocity-dep-1.4.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
